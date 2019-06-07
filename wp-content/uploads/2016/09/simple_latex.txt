@@ -1,0 +1,3 @@
+#!/bin/bash
+
+/Library/TeX/texbin/latex -output-format=dvi $*
