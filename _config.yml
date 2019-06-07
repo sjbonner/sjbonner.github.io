@@ -3,3 +3,5 @@ url: >
 name: Welcome to The Bonner Lab
 description: My WordPress Blog
 
+
+theme: jekyll-theme-cayman
